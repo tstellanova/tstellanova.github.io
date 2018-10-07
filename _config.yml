@@ -1,0 +1,10 @@
+title : TECHNICAL TREASURES
+tagline: Le Tagline
+author :
+  name : Todd Stellanova
+  email : blah@email.test
+  github : username
+  twitter : username
+  
+plugins:
+  - jekyll-sitemap
