@@ -10,8 +10,10 @@ github_username:  tstellanova
 theme: minima
 plugins:
   - jekyll-sitemap
-  
-# - jekyll-feed
+  - jekyll-feed
+
+feed:
+  path: atom.xml
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
