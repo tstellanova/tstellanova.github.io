@@ -2,5 +2,6 @@
 Todd’s Technical Treasures 
 
 - [first](test.md)
-- [second](test2.md)
+- [Setup rust environment on Raspberry Pi](./docs/rpi-rust-env.md)
+
 
