@@ -1,3 +1,6 @@
+
+# Setup Raspberry Pi for Rust Programming
+
 ## Purpose
 
 Setup your [Raspberry Pi 0 w](http://amzn.to/2oH8VcR) to develop with the Rust language.
@@ -16,7 +19,7 @@ Should show `Active: active (running) ` -- if it does not:
 
 ### Setup pigpiod to run at boot
 - `sudo systemctl enable pigpiod`
-- After reboot, verify with: ` sudo service pigpiod status`
+- After reboot, verify with: `sudo service pigpiod status`
 
 ### Optional: Install python pigpio access
 Some pigpio examples are provided in the Python language: In order to run these you'll need to have these packages installed:
