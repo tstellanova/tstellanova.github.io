@@ -14,4 +14,8 @@ Reader beware: Some instructions may be completely obsolete and only of interest
 ### Debian / Raspbian / Linux
 - [Use init.d to start a service with screen at boot](./docs/debian-initd_service_screen.md)
 
+## Handy Links
+- [sitemap.xml](./sitemap.xml)
+- [atom feed](./atom.xml)
+
 
