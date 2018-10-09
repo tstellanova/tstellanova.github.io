@@ -1,4 +1,7 @@
+## Setup OctoPrint 3D Print Server on Raspberry Pi Zero W
+
 Make Prusa i3 MK2 3D printer available for remote printing via OctoPrint running on a Raspberry Pi Zero W, connected with a USB OTG cable, using Slic3r as the client. 
+
 ## Summary
 
 - Setup rpi0 with latest raspbian
