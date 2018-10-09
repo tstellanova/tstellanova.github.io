@@ -7,7 +7,7 @@ twitter_username: stellanovat
 github_username:  tstellanova
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: minima
 
 plugins:
   - jekyll-sitemap
