@@ -1,4 +1,7 @@
-This will launch a binary executable under `screen` using init.d.
+
+## Launch service under `screen` at boot
+
+This will launch a binary executable under `screen` using init.d at boot. 
 Tested with Raspbian Scratch and Jessie.
 
 - PUT A FILE in `/etc/init.d`:
