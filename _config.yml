@@ -9,6 +9,8 @@ github_username:  tstellanova
 # Build settings
 theme: minima
 
+show_excerpts: true
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed
