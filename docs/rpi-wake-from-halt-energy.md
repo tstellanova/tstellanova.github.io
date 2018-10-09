@@ -1,3 +1,5 @@
+## Raspberry Pi Battery Saving with Wake from Halt
+
 Summary: You can potentially save a lot of energy for battery powered applications by forcing the RPi to halt and then reset whenever a triggering event takes place.
 
 ## Details
